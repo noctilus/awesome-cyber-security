@@ -300,7 +300,7 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
 - [**526**Star][5d] [Ruby] [hdm/mac-ages](https://github.com/hdm/mac-ages) determine an approximate issuance date for IEEE allocated hardware address ranges
 - [**520**Star][2m] [Shell] [trailofbits/twa](https://github.com/trailofbits/twa) A tiny web auditor with strong opinions.
 - [**517**Star][2m] [JS] [mr-un1k0d3r/thundershell](https://github.com/mr-un1k0d3r/thundershell) a C# RAT that communicates via HTTP requests
-- [**517**Star][5m] [C++] [shuax/greenchrome](https://github.com/shuax/greenchrome) 超好用的Chrome浏览器增强软件
+- [**517**Star][5m] [C++] [shuax/greenchrome](https://github.com/shuax/greenchrome) Super easy-to-use Chrome browser enhancement software
 - [**516**Star][8m] [Visual Basic .NET] [mr-un1k0d3r/maliciousmacrogenerator](https://github.com/mr-un1k0d3r/maliciousmacrogenerator)  generate obfuscated macro that also include a AV / Sandboxes escape mechanism.
 - [**510**Star][12m] [Go] [mthbernardes/gtrs](https://github.com/mthbernardes/gtrs)  uses Google Translator as a proxy to send arbitrary commands to an infected machine
 - [**505**Star][12m] [C] [google/ktsan](https://github.com/google/ktsan) a fast data race detector for the Linux kernel
@@ -323,7 +323,7 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
 - [**462**Star][5m] [C] [phoenhex/files](https://github.com/phoenhex/files) Repository for exploits/POCs/presentation of the phoenhex team
 - [**461**Star][3m] [PS] [rvrsh3ll/misc-powershell-scripts](https://github.com/rvrsh3ll/misc-powershell-scripts) Random Tools
 - [**454**Star][19d] [PS] [mr-un1k0d3r/redteampowershellscripts](https://github.com/mr-un1k0d3r/redteampowershellscripts) Various PowerShell scripts that may be useful during red team exercise
-- [**454**Star][2m] [Py] [super-l/superl-url](https://github.com/super-l/superl-url) 根据关键词，对搜索引擎内容检索结果的网址内容进行采集的一款轻量级软程序。 程序主要运用于安全渗透测试项目，以及批量评估各类CMS系统0DAY的影响程度，同时也是批量采集自己获取感兴趣的网站的一个小程序~~ 可自动从搜索引擎采集相关网站的真实地址与标题等信息，可保存为文件，自动去除重复URL。同时，也可以自定义忽略多条域名等。
+- [**454**Star][2m] [Py] [super-l/superl-url](https://github.com/super-l/superl-url) A lightweight software program that collects URL content of search engine content retrieval results based on keywords. The program is mainly used in security penetration testing projects, and batch evaluation of the 0DAY impact of various CMS systems. It is also a small program for batch collection of websites you are interested in~~ It can automatically collect the real addresses and titles of related websites from search engines and other information can be saved as a file to automatically remove duplicate URLs. At the same time, you can also customize to ignore multiple domain names, etc.
 - [**450**Star][4m] [C++] [omerya/invisi-shell](https://github.com/omerya/invisi-shell) Hide your Powershell script in plain sight. Bypass all Powershell security features
 - [**431**Star][7m] [Pascal] [mojtabatajik/robber](https://github.com/mojtabatajik/robber) Robber is open source tool for finding executables prone to DLL hijacking
 - [**431**Star][11d] [C++] [tenable/routeros](https://github.com/tenable/routeros) various tools and exploits developed while performing security research on MikroTik's RouterOS.
@@ -362,7 +362,7 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
 - [**343**Star][2m] [veracode-research/solr-injection](https://github.com/veracode-research/solr-injection) Apache Solr Injection Research
 - [**342**Star][9m] [Py] [skorov/ridrelay](https://github.com/skorov/ridrelay) Enumerate usernames on a domain where you have no creds by using SMB Relay with low priv.
 - [**340**Star][11d] [C#] [mr-un1k0d3r/scshell](https://github.com/mr-un1k0d3r/scshell) Fileless lateral movement tool that relies on ChangeServiceConfigA to run command
-- [**339**Star][4d] [JS] [meituan-dianping/lyrebird](https://github.com/meituan-dianping/lyrebird) 基于拦截以及模拟HTTP/HTTPS网络请求的面向移动应用的插件化测试工作台
+- [**339**Star][4d] [JS] [meituan-dianping/lyrebird](https://github.com/meituan-dianping/lyrebird) A plug-in test bench for mobile applications based on interception and simulation of HTTP/HTTPS network requests
 - [**339**Star][1y] [Ruby] [srcclr/commit-watcher](https://github.com/srcclr/commit-watcher) Find interesting and potentially hazardous commits in git projects
 - [**335**Star][4m] [C] [csete/gpredict](https://github.com/csete/gpredict) a real time satellite tracking and orbit prediction program
 for the Linux desktop
@@ -374,7 +374,7 @@ for the Linux desktop
 - [**326**Star][2m] [PS] [joelgmsec/autordpwn](https://github.com/joelgmsec/autordpwn) The Shadow Attack Framework
 - [**326**Star][1y] [JS] [nccgroup/wssip](https://github.com/nccgroup/wssip) Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
 - [**326**Star][1m] [Go] [wangyihang/platypus](https://github.com/wangyihang/platypus)  A modern multiple reverse shell sessions/clients manager via terminal written in go
-- [**325**Star][21d] [Shell] [al0ne/linuxcheck](https://github.com/al0ne/linuxcheck) linux信息收集/应急响应/常见后门检测脚本
+- [**325**Star][21d] [Shell] [al0ne/linuxcheck](https://github.com/al0ne/linuxcheck) Linux information collection/emergency response/common backdoor detection script
 - [**324**Star][12d] [JS] [privacypass/challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) the Privacy Pass extension implements the Privacy Pass protocol for providing a private authentication mechanism during web browsing.
 - [**323**Star][1m] [trustedsec/physical-docs](https://github.com/trustedsec/physical-docs) This is a collection of legal wording and documentation used for physical security assessments. The goal is to hopefully allow this as a template for other companies to use and to protect themselves when conducting physical security assessments.
 - [**322**Star][1y] [crazywa1ker/darthsidious-chinese](https://github.com/crazywa1ker/darthsidious-chinese) DarthSidious 中文版
@@ -392,17 +392,17 @@ for the Linux desktop
 - [**310**Star][2m] [PS] [darkoperator/posh-secmod](https://github.com/darkoperator/posh-secmod) PowerShell Module with Security cmdlets for security work
 - [**309**Star][4m] [PS] [enigma0x3/misc-powershell-stuff](https://github.com/enigma0x3/misc-powershell-stuff) random powershell goodness
 - [**305**Star][3m] [C] [9176324/shark](https://github.com/9176324/shark) Turn off PatchGuard in real time for win7 (7600) ~ win10 (18950).
-- [**305**Star][7d] [ugvf2009/miles](https://github.com/ugvf2009/miles) 二爷翻墙，专注翻墙30年，但没有掌握核心科技^_^
+- [**305**Star][7d] [ugvf2009/miles](https://github.com/ugvf2009/miles) The second master overcame the wall, focused on overcoming the wall for 30 years, but did not master the core technology^_^
 - [**305**Star][11d] [Py] [xinsss/conf-for-surge-shadowrocket](https://github.com/xinsss/conf-for-surge-shadowrocket) Surge Shadowrocket conf
 - [**304**Star][2m] [JS] [doyensec/electronegativity](https://github.com/doyensec/electronegativity) Electronegativity is a tool to identify misconfigurations and security anti-patterns in Electron applications.
 - [**300**Star][] [C++] [squalr/squally](https://github.com/squalr/squally) 2D Platformer Game for Teaching Game Hacking - C++/cocos2d-x
 - [**300**Star][1m] [C] [tarsnap/scrypt](https://github.com/tarsnap/scrypt) The scrypt key derivation function was originally developed for use in the Tarsnap online backup system and is designed to be far more secure against hardware brute-force attacks than alternative functions such as PBKDF2 or bcrypt.
-- [**299**Star][10m] [C++] [anhkgg/superdllhijack](https://github.com/anhkgg/superdllhijack) SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
+- [**299**Star][10m] [C++] [anhkgg/superdllhijack](https://github.com/anhkgg/superdllhijack) SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! A general Dll hijacking technology, no longer need to manually export the function interface of Dll
 - [**299**Star][1y] [C#] [ghostpack/sharpup](https://github.com/ghostpack/sharpup) SharpUp is a C# port of various PowerUp functionality.
 - [**298**Star][7m] [Py] [edent/bmw-i-remote](https://github.com/edent/bmw-i-remote) A reverse engineered interface for the BMW i3 Electric Car
 - [**298**Star][14d] [Shell] [fdiskyou/zines](https://github.com/fdiskyou/zines) Mirror of my favourite hacking Zines for the lulz, nostalgy, and reference
 - [**297**Star][10d] [JS] [jesusprubio/strong-node](https://github.com/jesusprubio/strong-node) 
-- [**297**Star][1y] [JS] [xxxily/fiddler-plus](https://github.com/xxxily/fiddler-plus) 自定义的Fiddler规则，多环境切换、解决跨域开发、快速调试线上代码必备|高效调试分析利器
+- [**297**Star][1y] [JS] [xxxily/fiddler-plus](https://github.com/xxxily/fiddler-plus) Custom Fiddler rules, multi-environment switching, solving cross-domain development, and quick debugging of online code are necessary | Efficient debugging and analysis tools
 - [**296**Star][9m] [C] [gianlucaborello/libprocesshider](https://github.com/gianlucaborello/libprocesshider) Hide a process under Linux using the ld preloader (
 - [**295**Star][2m] [Go] [mdsecactivebreach/o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) A toolkit to attack Office365
 - [**295**Star][9m] [C] [rhboot/shim](https://github.com/rhboot/shim) a trivial EFI application that, when run, attempts to open and execute another application
@@ -459,9 +459,9 @@ for the Linux desktop
 - [**244**Star][8m] [Py] [openstack/syntribos](https://github.com/openstack/syntribos) Python API security testing tool from OpenStack Security Group
 - [**242**Star][19d] [Rust] [hirrolot/anevicon](https://github.com/Hirrolot/anevicon) 
 - [**239**Star][1y] [Py] [matthewclarkmay/geoip-attack-map](https://github.com/matthewclarkmay/geoip-attack-map) Cyber security geoip attack map that follows syslog and parses IPs/port numbers to visualize attackers in real time.
-- [**238**Star][2m] [JS] [martinzhou2015/srcms](https://github.com/martinzhou2015/srcms) SRCMS企业应急响应与缺陷管理系统
+- [**238**Star][2m] [JS] [martinzhou2015/srcms](https://github.com/martinzhou2015/srcms)SRCMS Enterprise Emergency Response and Defect Management System
 - [**238**Star][2m] [Py] [timlib/webxray](https://github.com/timlib/webxray) webxray is a tool for analyzing third-party content on webpages and identifying the companies which collect user data.
-- [**237**Star][11m] [duoergun0729/2book](https://github.com/duoergun0729/2book) 《Web安全之深度学习实战》
+- [**237**Star][11m] [duoergun0729/2book](https://github.com/duoergun0729/2book) "Deep Learning for Web Security"
 - [**236**Star][10m] [Py] [cryin/javaid](https://github.com/cryin/javaid) java source code static code analysis and danger function identify prog
 - [**236**Star][8m] [Py] [xhak9x/fbi](https://github.com/xhak9x/fbi) Facebook Information
 - [**231**Star][18d] [o-mg/demonseed](https://github.com/o-mg/demonseed) minimal malicious USB cabl
@@ -476,7 +476,7 @@ for the Linux desktop
 - [**221**Star][7m] [bhdresh/dejavu](https://github.com/bhdresh/dejavu) deception framework which can be used to deploy decoys across the infrastructure
 - [**220**Star][5m] [Shell] [vedetta-com/vedetta](https://github.com/vedetta-com/vedetta) OpenBSD Router Boilerplate
 - [**220**Star][15d] [Py] [wazuh/wazuh-ruleset](https://github.com/wazuh/wazuh-ruleset) ruleset is used to detect attacks, intrusions, software misuse, configuration problems, application errors, malware, rootkits, system anomalies or security policy violations.
-- [**219**Star][9m] [JS] [zhuyingda/veneno](https://github.com/zhuyingda/veneno) 用Node.js编写的Web安全测试框架
+- [**219**Star][9m] [JS] [zhuyingda/veneno](https://github.com/zhuyingda/veneno) A web security testing framework written in Node.js
 - [**218**Star][10m] [C] [feexd/pocs](https://github.com/feexd/pocs) 
 - [**218**Star][10m] [JS] [jopyth/mmm-remote-control](https://github.com/jopyth/mmm-remote-control) Magic Mirror Module to shutdown or configure your mirror
 - [**217**Star][10m] [Py] [mckinsey666/vocabs](https://github.com/Mckinsey666/vocabs) A lightweight online dictionary integration to the command line
@@ -509,7 +509,7 @@ for the Linux desktop
 
 
 
-### <a id="b9dc08e7e118fc7af41df5e0ef9ddc3c"></a>新添加1
+### <a id="b9dc08e7e118fc7af41df5e0ef9ddc3c"></a>Newly added 1
 
 
 
@@ -589,10 +589,10 @@ for the Linux desktop
 - [**1760**Star][1y] [coreb1t/awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) Collection of the cheat sheets useful for pentesting
 - [**1752**Star][1m] [ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) Inspired by
 - [**1716**Star][4m] [R] [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) A curated list of awesome network analysis resources.
-- [**1602**Star][7m] [Py] [w1109790800/penetration](https://github.com/w1109790800/penetration) 渗透 超全面的渗透资料
+- [**1602**Star][7m] [Py] [w1109790800/penetration](https://github.com/w1109790800/penetration) ** repository down ** Penetration Ultra-comprehensive penetration data
 - [**1585**Star][7m] [Ruby] [brunofacca/zen-rails-security-checklist](https://github.com/brunofacca/zen-rails-security-checklist) Checklist of security precautions for Ruby on Rails applications.
 - [**1546**Star][9d] [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) A curated list of awesome curated lists of many topics.
-- [**1534**Star][6m] [snowming04/the-hacker-playbook-3-translation](https://github.com/snowming04/the-hacker-playbook-3-translation) 对 The Hacker Playbook 3 的翻译。
+- [**1534**Star][6m] [snowming04/the-hacker-playbook-3-translation](https://github.com/snowming04/the-hacker-playbook-3-translation) Translation of The Hacker Playbook 3.
 - [**1376**Star][2m] [grrrdog/java-deserialization-cheat-sheet](https://github.com/grrrdog/java-deserialization-cheat-sheet) The cheat sheet about Java Deserialization vulnerabilities
 - [**1242**Star][1y] [Ruby] [eliotsykes/rails-security-checklist](https://github.com/eliotsykes/rails-security-checklist) 
 - [**1207**Star][8m] [joe-shenouda/awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) A curated list of hacking environments where you can train your cyber skills legally and safely

@@ -9,7 +9,7 @@
 # PenetrationTesting
 
 
-[中文版本](https://github.com/alphaSeclab/awesome-cyber-security/blob/master/Readme.md)
+[Chinese Version](https://github.com/alphaSeclab/awesome-cyber-security/blob/master/Readme.md)
 
 The page You see here is a stripped version: Repos with less than 200 stars and last modified more than 500 days ago are not included.
 Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/awesome-cyber-security/blob/master/Readme_full_en.md)
@@ -17,30 +17,30 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
 
 # Directory
 - [Tools](#94ca60d12e210fdd7fd9e387339b293e)
-    - [RecentAdded](#9eee96404f868f372a6cbc6769ccb7f8)
-        - [(1103) RecentAdded](#31185b925d5152c7469b963809ceb22d)
-        - [NoCategory](#f34b4da04f2a77a185729b5af752efc5)
-        - [新添加1](#b9dc08e7e118fc7af41df5e0ef9ddc3c)
-        - [新添加2](#efb2cfb167e34b03243547cfb3a662ac)
-        - [未分类3](#f04dd1be8e552b074dde7cb33ae6c84c)
-        - [未分类4](#cbb37de8d70e314ce905d78c566ef384)
-        - [未分类5](#bb7173c3a2ea52d046c8abe3c57e3291)
-        - [(1) 未分类6](#f7654997cf8b691617b89c5e523a942f)
+    - [Recently Added](#9eee96404f868f372a6cbc6769ccb7f8)
+        - [(1103) Recently Added](#31185b925d5152c7469b963809ceb22d)
+        - [No Category](#f34b4da04f2a77a185729b5af752efc5)
+        - [Newly Added 1](#b9dc08e7e118fc7af41df5e0ef9ddc3c)
+        - [Newly Added 2](#efb2cfb167e34b03243547cfb3a662ac)
+        - [Newly Added 3](#f04dd1be8e552b074dde7cb33ae6c84c)
+        - [Newly Added 4](#cbb37de8d70e314ce905d78c566ef384)
+        - [Newly Added 5](#bb7173c3a2ea52d046c8abe3c57e3291)
+        - [(1) Newly Added 6](#f7654997cf8b691617b89c5e523a942f)
     - [(3) Ancient](#d5e869a870d6e2c14911de2bc527a6ef)
-    - [文章](#8603294b7c1f136b866b6402d63a9978)
-        - [新添加的](#f110da0bf67359d3abc62b27d717e55e)
+    - [New Article](#8603294b7c1f136b866b6402d63a9978)
+        - [Newly Added](#f110da0bf67359d3abc62b27d717e55e)
 - [Collection](#a4ee2f4d4a944b54b2246c72c037cd2e)
     - [(222) NoCategory](#e97d183e67fa3f530e7d0e7e8c33ee62)
     - [(9) Mixed](#664ff1dbdafefd7d856c88112948a65b)
     - [(12) WithoutTools](#67acc04b20c99f87ee625b073330d8c2)
     - [(1) CollectionOfCollection](#24707dd322098f73c7e450d6b1eddf12)
-    - [(7) Book&&Tutorial&&Courses](#9101434a896f20263d09c25ace65f398)
-    - [Note&&Tips&&Tricks&&Talk&&Conference](#8088e46fc533286d88b945f1d472bf57)
+    - [(7) Book Tutorial Courses](#9101434a896f20263d09c25ace65f398)
+    - [Note Tips Tricks Talk Conference](#8088e46fc533286d88b945f1d472bf57)
         - [(12) NoCategory](#f57ccaab4279b60c17a03f90d96b815c)
         - [(1) blog](#0476f6b97e87176da0a0d7328f8747e7)
-    - [Talk&&Conference ](#df8ec4a66ef5027bbcc591c94f8de1e5)
+    - [Talk Conference ](#df8ec4a66ef5027bbcc591c94f8de1e5)
     - [(1) Documentation](#4be58a3a00f83975b0321425db3b9b68)
-- [SpecificTarget](#7e840ca27f1ff222fd25bc61a79b07ba)
+- [Specific Target](#7e840ca27f1ff222fd25bc61a79b07ba)
     - [(4) NoCategory](#eb2d1ffb231cee014ed24d59ca987da2)
     - [(113) AWS](#c71ad1932bbf9c908af83917fe1fd5da)
     - [(1) Phoenix](#88716f4591b1df2149c2b7778d15d04e)
@@ -49,18 +49,18 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
     - [(1) Nginx](#40dbffa18ec695a618eef96d6fd09176)
     - [(1) ELK](#6b90a3993f9846922396ec85713dc760)
     - [(1) GoogleCloud](#6730dabeca61fcf64d4f7631abae6734)
-- [IoT&&EmbedDevice&&Router&&Switch&&SmartDevice&&Printer](#d55d9dfd081aa2a02e636b97ca1bad0b)
-    - [工具](#9a20a70f58ea7946f24224c5d73fac15)
+- [IoT Embed Device Router Switch SmartDevice Printer](#d55d9dfd081aa2a02e636b97ca1bad0b)
+    - [tool](#9a20a70f58ea7946f24224c5d73fac15)
         - [(46) NoCategory](#cda63179d132f43441f8844c5df10024)
         - [(1) Printer](#72bffacc109d51ea286797a7d5079392)
-        - [(4) Router&&Switch](#c9fd442ecac4e22d142731165b06b3fe)
-        - [(1) EmbedDevice](#3d345feb9fee1c101aea3838da8cbaca)
-    - [文章](#01e638f09e44280ae9a1a95fc376edc5)
-        - [新添加](#a4a3bcead86d9f9f7977479dfe94797d)
-- [Pentest&&Offensive&&PentestFramework&&PostExp](#1233584261c0cd5224b6e90a98cc9a94)
-    - [工具](#5dd93fbc2f2ebc8d98672b2d95782af3)
+        - [(4) Router Switch](#c9fd442ecac4e22d142731165b06b3fe)
+        - [(1) Embed Device](#3d345feb9fee1c101aea3838da8cbaca)
+    - [New Article](#01e638f09e44280ae9a1a95fc376edc5)
+        - [Newly Added](#a4a3bcead86d9f9f7977479dfe94797d)
+- [Pentest Offensive PentestFramework PostExp](#1233584261c0cd5224b6e90a98cc9a94)
+    - [tool](#5dd93fbc2f2ebc8d98672b2d95782af3)
         - [(310) NoCategory](#2e40f2f1df5d7f93a7de47bf49c24a0e)
-        - [(13) AllInOne&&Framework](#2051fd9e171f2698d8e7486e3dd35d87)
+        - [(13) AllInOne Framework](#2051fd9e171f2698d8e7486e3dd35d87)
         - [(4) AutoXxx](#fc8737aef0f59c3952d11749fe582dac)
         - [(4) Collection](#9081db81f6f4b78d5c263723a3f7bd6d)
         - [Burp](#39e9a0fe929fffe5721f7d7bb2dae547)
@@ -70,7 +70,7 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
         - [Metasploit](#8e7a6a74ff322cbf2bad59092598de77)
             - [(178) NoCategory](#01be61d5bb9f6f7199208ff0fba86b5d)
         - [LateralMovement](#adfa06d452147ebacd35981ce56f916b)
-        - [(36) AntiAV&&BypassAV](#b1161d6c4cb520d0cd574347cd18342e)
+        - [(36) AntiAV BypassAV](#b1161d6c4cb520d0cd574347cd18342e)
         - [(107) C&C](#98a851c8e6744850efcb27b8e93dff73)
         - [(96) DDOS](#a0897294e74a0863ea8b83d11994fad6)
         - [(148) Kali](#7667f6a0381b6cded2014a0d279b5722)
@@ -83,25 +83,25 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
             - [ClickHijack](#ecdeb90ce9bd347ca7f9d366d157689d)
         - [(31) RedTeam](#8afafc25f4fb0805556003864cce90e2)
         - [(15) BlueTeam](#4c42a9cc007de389f975cb0ce146c0ed)
-    - [文章](#f21aa1088a437dbb001a137f6f885530)
-        - [新添加的](#7229723a22769af40b96ab31fb09dcc7)
+    - [New Article](#f21aa1088a437dbb001a137f6f885530)
+        - [Newly Added](#7229723a22769af40b96ab31fb09dcc7)
         - [Metasploit](#6280e13d236b0f18c75894d304309416)
         - [BurpSuite](#082a9e72817adcf2f824767e3e2ce597)
         - [CobaltStrike ](#6710d6fe61cbbc36b2ba75de156eda8a)
-- [Scanner&&SecurityScan&&AppScan](#8f92ead9997a4b68d06a9acf9b01ef63)
-    - [工具](#132036452bfacf61471e3ea0b7bf7a55)
+- [Scanner SecurityScan AppScan](#8f92ead9997a4b68d06a9acf9b01ef63)
+    - [tool](#132036452bfacf61471e3ea0b7bf7a55)
         - [(291) NoCategory](#de63a029bda6a7e429af272f291bb769)
-        - [(20) Secret&&Privacy](#58d8b993ffc34f7ded7f4a0077129eb2)
+        - [(20) Secret Privacy](#58d8b993ffc34f7ded7f4a0077129eb2)
         - [PrivacyStorage](#1927ed0a77ff4f176b0b7f7abc551e4a)
             - [(1) NoCategory](#1af1c4f9dba1db2a4137be9c441778b8)
             - [(26) Steganography](#362dfd9c1f530dd20f922fd4e0faf0e3)
-    - [文章](#1d8298e4ee4ad3c3028a1e157f85f27b)
-        - [新添加的](#7669ebab00d00c744abc35195fbaa833)
-- [Recon&&InfoGather&&SubDomainDiscovery&&OSINT](#a76463feb91d09b3d024fae798b92be6)
-    - [工具](#170048b7d8668c50681c0ab1e92c679a)
+    - [New Article](#1d8298e4ee4ad3c3028a1e157f85f27b)
+        - [Newly Added](#7669ebab00d00c744abc35195fbaa833)
+- [Recon InfoGather SubDomain Discovery OSINT](#a76463feb91d09b3d024fae798b92be6)
+    - [tool](#170048b7d8668c50681c0ab1e92c679a)
         - [(210) NoCategory](#05ab1b75266fddafc7195f5b395e4d99)
         - [(81) SubDomainDiscovery](#e945721056c78a53003e01c3d2f3b8fe)
-        - [(183) Recon&&InfoGather](#375a8baa06f24de1b67398c1ac74ed24)
+        - [(183) Recon InfoGather](#375a8baa06f24de1b67398c1ac74ed24)
         - [(75) Fingerprinting](#016bb6bd00f1e0f8451f779fe09766db)
         - [(1) Collection](#6ea9006a5325dd21d246359329a3ede2)
         - [SocialNetwork](#dc74ad2dd53aa8c8bf3a3097ad1f12b7)
@@ -111,113 +111,113 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
         - [(71) DNS](#a695111d8e30d645354c414cb27b7843)
         - [(68) Shodan](#18c7c1df2e6ae5e9135dfa2e4eb1d4db)
         - [(187) nmap](#94c01f488096fafc194b9a07f065594c)
-    - [文章](#b0ca6c8512a268e8438d5e5247a88c2f)
-        - [新添加](#5a855113503106950acff4d7dbb2403e)
-- [SET&&Phishing&&SpearPhishing](#546f4fe70faa2236c0fbc2d486a83391)
-    - [工具](#3e622bff3199cf22fe89db026b765cd4)
+    - [New Article](#b0ca6c8512a268e8438d5e5247a88c2f)
+        - [Newly Added](#5a855113503106950acff4d7dbb2403e)
+- [SET Phishing SpearPhishing](#546f4fe70faa2236c0fbc2d486a83391)
+    - [tool](#3e622bff3199cf22fe89db026b765cd4)
         - [(11) NoCategory](#ce734598055ad3885d45d0b35d2bf0d7)
         - [(2) SET](#f30507893511f89b19934e082a54023e)
         - [(156) Phish](#290e9ae48108d21d6d8b9ea9e74d077d)
         - [SpearPhishing](#ab3e6e6526d058e35c7091d8801ebf3a)
-    - [新添加的](#8f6c7489870c7358c39c920c83fa2b6b)
-        - [新添加的](#d7e332e9e235fd5a60687800f5ce184c)
-- [EvnSetup&&Env](#dc89c90b80529c1f62f413288bca89c4)
-    - [工具](#9763d00cbe773aa10502dbe258f9c385)
+    - [Newly Added](#8f6c7489870c7358c39c920c83fa2b6b)
+        - [Newly Added](#d7e332e9e235fd5a60687800f5ce184c)
+- [EvnSetup Env](#dc89c90b80529c1f62f413288bca89c4)
+    - [tool](#9763d00cbe773aa10502dbe258f9c385)
         - [(10) NoCategory](#f5a7a43f964b2c50825f3e2fee5078c8)
         - [(5) Linux-Distro](#cf07b04dd2db1deedcf9ea18c05c83e0)
         - [(3) EnvAutoSetup](#4709b10a8bb691204c0564a3067a0004)
-    - [文章](#6454949c0d580904537643b8f4cd5a6b)
-        - [新添加的](#873294ea77bc292b6fc4cfb2f9b40049)
-- [Password&&Credential](#c49aef477cf3397f97f8b72185c3d100)
-    - [工具](#862af330f45f21fbb0d495837fc7e879)
+    - [New Article](#6454949c0d580904537643b8f4cd5a6b)
+        - [Newly Added](#873294ea77bc292b6fc4cfb2f9b40049)
+- [Password Credential](#c49aef477cf3397f97f8b72185c3d100)
+    - [tool](#862af330f45f21fbb0d495837fc7e879)
         - [(98) NoCategory](#20bf2e2fefd6de7aadbf0774f4921824)
         - [(43) Password](#86dc226ae8a71db10e4136f4b82ccd06)
         - [(15) Authenticate](#764122f9a7cf936cd9bce316b09df5aa)
-    - [文章](#5fda419e854b390c8361d347f48607ce)
-        - [新添加的](#776c034543a65be69c061d1aafce3127)
+    - [New Article](#5fda419e854b390c8361d347f48607ce)
+        - [Newly Added](#776c034543a65be69c061d1aafce3127)
 - [Other](#43b0310ac54c147a62c545a2b0f4bce2)
     - [(12) NoCategory](#569887799ee0148230cc5d7bf98e96d0)
-    - [(34) TLS&&SSL&&HTTPS](#86d5daccb4ed597e85a0ec9c87f3c66f)
+    - [(34) TLS SSL HTTPS](#86d5daccb4ed597e85a0ec9c87f3c66f)
 - [Defense](#946d766c6a0fb23b480ff59d4029ec71)
-    - [工具](#0abd611fc3e9a4d9744865ca6e47a6b2)
+    - [tool](#0abd611fc3e9a4d9744865ca6e47a6b2)
         - [(101) WAF](#784ea32a3f4edde1cd424b58b17e7269)
         - [(119) FireWall](#ce6532938f729d4c9d66a5c75d1676d3)
-        - [(39) IDS&&IPS](#ff3e0b52a1477704b5f6a94ccf784b9a)
+        - [(39) IDS IPS](#ff3e0b52a1477704b5f6a94ccf784b9a)
         - [(43) NoCategory](#7a277f8b0e75533e0b50d93c902fb351)
         - [(3) Privacy](#6543c237786d1f334d375f4d9acdeee4)
-    - [文章](#5aac7367edfef7c63fc95afd6762b773)
-        - [新添加的](#04aac0e81b87788343930e9dbf01ba9c)
+    - [New Article](#5aac7367edfef7c63fc95afd6762b773)
+        - [Newly Added](#04aac0e81b87788343930e9dbf01ba9c)
 - [SoftwareDefinedRadio](#52b481533d065d9e80cfd3cca9d91c7f)
-    - [(6) 工具](#015984b1dae0c9aa03b3aa74ea449f3f)
-    - [文章](#043e62cc373eb3e7b3910b622cf220d8)
-- [LOLBin&&LOLScript](#507f1a48f4709abb1c6b0d2689fd15e6)
-    - [(2) 工具](#ec32edc7b3e441f29c70f6e9bca0174a)
-    - [文章](#9bffad3ac781090ab31d4013bf858dd9)
+    - [(6) tool](#015984b1dae0c9aa03b3aa74ea449f3f)
+    - [New Article](#043e62cc373eb3e7b3910b622cf220d8)
+- [LOLBin LOLScript](#507f1a48f4709abb1c6b0d2689fd15e6)
+    - [(2) tool](#ec32edc7b3e441f29c70f6e9bca0174a)
+    - [New Article](#9bffad3ac781090ab31d4013bf858dd9)
 - [Logging](#e25d233159b1dc40898ff0c74574f790)
-    - [(1) 工具](#13df0f4d5c7a1386b329fd9e43d8fc15)
-    - [文章](#06e7d46942d5159d19aa5c36f66f174a)
+    - [(1) tool](#13df0f4d5c7a1386b329fd9e43d8fc15)
+    - [New Article](#06e7d46942d5159d19aa5c36f66f174a)
 - [ThreatHunt](#9b026a07fdf243c6870ce91f00191214)
-    - [工具](#b911aad7512e253660092942e06d00ad)
-        - [(1) 未分类](#0b27f97199330c4945572a1f9c229000)
-    - [文章](#f613271a55b177f626b42b8c728a0b1c)
-        - [新添加的](#3828e67170e5db714c9c16f663b42a5e)
+    - [tool](#b911aad7512e253660092942e06d00ad)
+        - [(1) Uncategorized](#0b27f97199330c4945572a1f9c229000)
+    - [New Article](#f613271a55b177f626b42b8c728a0b1c)
+        - [Newly Added](#3828e67170e5db714c9c16f663b42a5e)
 - [Crypto](#d6b02213a74372407371f77dd6e39c99)
-    - [(13) 工具](#41d260119ad54db2739a9ae393bd87a5)
-    - [文章](#cc043f672c90d4b834cdae80bfbe8851)
-- [Malware&&APT](#8cb1c42a29fa3e8825a0f8fca780c481)
-    - [(12) 工具](#e2fd0947924229d7de24b9902e1f54a0)
-    - [文章](#cfffc63a6302bd3aa79a0305ed7afd55)
-- [REST_API&&RESTFUL ](#7d5d2d22121ed8456f0c79098f5012bb)
-    - [(3) 工具](#3b127f2a89bc8d18b4ecb0d9c61f1d58)
-    - [文章](#b16baff7e1b11133efecf1b5b6e10aab)
+    - [(13) tool](#41d260119ad54db2739a9ae393bd87a5)
+    - [New Article](#cc043f672c90d4b834cdae80bfbe8851)
+- [Malware APT](#8cb1c42a29fa3e8825a0f8fca780c481)
+    - [(12) tool](#e2fd0947924229d7de24b9902e1f54a0)
+    - [New Article](#cfffc63a6302bd3aa79a0305ed7afd55)
+- [REST_API RESTFUL ](#7d5d2d22121ed8456f0c79098f5012bb)
+    - [(3) tool](#3b127f2a89bc8d18b4ecb0d9c61f1d58)
+    - [New Article](#b16baff7e1b11133efecf1b5b6e10aab)
 - [Bluetooth](#ceb90405292daed9bb32ac20836c219a)
-    - [(3) 工具](#c72811e491c68f75ac2e7eb7afd3b01f)
-    - [文章](#97e1bdced96fc7fcd502174d6eecee36)
+    - [(3) tool](#c72811e491c68f75ac2e7eb7afd3b01f)
+    - [New Article](#97e1bdced96fc7fcd502174d6eecee36)
 - [Browser](#76df273beb09f6732b37a6420649179c)
-    - [(21) 工具](#47a03071becd6df66b469df7c2c6f9b5)
-    - [文章](#ca0c0694dc0aa87534e9bb19be4ee4d5)
+    - [(21) tool](#47a03071becd6df66b469df7c2c6f9b5)
+    - [New Article](#ca0c0694dc0aa87534e9bb19be4ee4d5)
 - [MitreATT&CK](#249c9d207ed6743e412c8c8bcd8a2927)
-    - [工具](#a88c0c355b342b835fb42abee283bd71)
-        - [(27) 未分类的](#6ab6835b55cf5c8462c4229a4a0ee94c)
-    - [文章](#8512ba6c3855733a1474ca2f16153906)
-        - [新添加的](#4b17464da487fbdf719e9a1482abf8f1)
-- [Crack&&BruteForce](#de81f9dd79c219c876c1313cd97852ce)
-    - [工具](#73c3c9225523cbb05333246f23342846)
-        - [(255) 未分类的](#53084c21ff85ffad3dd9ce445684978b)
-    - [文章](#171e396a8965775c27602762c6638694)
-        - [新添加的](#fc3c73849911ede2ce0d6d02f1f5b0b9)
-- [Breach&&Leak](#96171a80e158b8752595329dd42e8bcf)
-    - [工具](#602bb9759b0b2ba5555b05b7218a2d6f)
-        - [(15) 未分类](#dc507c5be7c09e1e88af7a1ad91e2703)
-    - [文章](#fb3bccf80281e11fdf4ef06ddaa34566)
-        - [新添加的](#339727dd5a006d7a5bd8f0173dc80bb9)
+    - [tool](#a88c0c355b342b835fb42abee283bd71)
+        - [(27) Uncategorized](#6ab6835b55cf5c8462c4229a4a0ee94c)
+    - [New Article](#8512ba6c3855733a1474ca2f16153906)
+        - [Newly Added](#4b17464da487fbdf719e9a1482abf8f1)
+- [Crack BruteForce](#de81f9dd79c219c876c1313cd97852ce)
+    - [tool](#73c3c9225523cbb05333246f23342846)
+        - [(255) Uncategorized](#53084c21ff85ffad3dd9ce445684978b)
+    - [New Article](#171e396a8965775c27602762c6638694)
+        - [Newly Added](#fc3c73849911ede2ce0d6d02f1f5b0b9)
+- [Breach Leak](#96171a80e158b8752595329dd42e8bcf)
+    - [tool](#602bb9759b0b2ba5555b05b7218a2d6f)
+        - [(15) Uncategorized](#dc507c5be7c09e1e88af7a1ad91e2703)
+    - [New Article](#fb3bccf80281e11fdf4ef06ddaa34566)
+        - [Newly Added](#339727dd5a006d7a5bd8f0173dc80bb9)
 - [Spdier](#785ad72c95e857273dce41842f5e8873)
-    - [工具](#0f931c85ab54698d0bcfaf9a3e6dac73)
-        - [(1) 未分类](#442f9390fd56008def077a21ab65d4aa)
-    - [文章](#23b008498c8b41ec3128bd9855660b7d)
-        - [新添加的](#37ca6907aa42dfd32db5973ff9eec83d)
-- [Wireless&&WiFi&&AP&&802.11](#39931e776c23e80229368dfc6fd54770)
+    - [tool](#0f931c85ab54698d0bcfaf9a3e6dac73)
+        - [(1) Uncategorized](#442f9390fd56008def077a21ab65d4aa)
+    - [New Article](#23b008498c8b41ec3128bd9855660b7d)
+        - [Newly Added](#37ca6907aa42dfd32db5973ff9eec83d)
+- [Wireless WiFi AP 802.11](#39931e776c23e80229368dfc6fd54770)
     - [(184) NoCategory](#d4efda1853b2cb0909727188116a2a8c)
-    - [(7) WPS&&WPA&&WPA2](#8d233e2d068cce2b36fd0cf44d10f5d8)
+    - [(7) WPS WPA WPA2](#8d233e2d068cce2b36fd0cf44d10f5d8)
     - [(2) 802.11](#8863b7ba27658d687a85585e43b23245)
-- [Payload&&RAT](#80301821d0f5d8ec2dd3754ebb1b4b10)
-    - [工具](#783f861b9f822127dba99acb55687cbb)
+- [Payload RAT](#80301821d0f5d8ec2dd3754ebb1b4b10)
+    - [tool](#783f861b9f822127dba99acb55687cbb)
         - [(134) NoCategory](#6602e118e0245c83b13ff0db872c3723)
         - [(20) PayloadCollection](#b5d99a78ddb383c208aae474fc2cb002)
         - [(44) RAT](#b318465d0d415e35fc0883e9894261d1)
         - [(58) PayloadGenerate](#ad92f6b801a18934f1971e2512f5ae4f)
         - [(34) Botnet](#c45a90ab810d536a889e4e2dd45132f8)
-        - [(70) Backdooring&&Backdoor](#b6efee85bca01cde45faa45a92ece37f)
+        - [(70) Backdooring Backdoor](#b6efee85bca01cde45faa45a92ece37f)
         - [(105) Obfuscate](#85bb0c28850ffa2b4fd44f70816db306)
         - [(1) PayloadManagement](#78d0ac450a56c542e109c07a3b0225ae)
         - [(32) Ransomware](#d08b7bd562a4bf18275c63ffe7d8fc91)
         - [(32) Keylogger](#82f546c7277db7919986ecf47f3c9495)
         - [(13) Meterpreter](#8f99087478f596139922cd1ad9ec961b)
         - [(6) PayloadDelivery](#63e0393e375e008af46651a3515072d8)
-    - [文章](#0b644b2d8119abf6643755ef455fcf2c)
-        - [新添加](#27962a7633b86d43cae2dd2d4c32f1b6)
+    - [New Article](#0b644b2d8119abf6643755ef455fcf2c)
+        - [Newly Added](#27962a7633b86d43cae2dd2d4c32f1b6)
 - [PostExp](#a9494547a9359c60f09aea89f96a2c83)
-    - [工具](#3ed50213c2818f1455eff4e30372c542)
+    - [tool](#3ed50213c2818f1455eff4e30372c542)
         - [(49) NoCategory](#12abc279c69d1fcf10692b9cb89bcdf7)
         - [(53) PrivilegeEscalation](#4c2095e7e192ac56f6ae17c8fc045c51)
         - [Windows](#caab36bba7fa8bb931a9133e37d397f6)
@@ -228,9 +228,9 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
             - [Domain](#25697cca32bd8c9492b8e2c8a3a93bfe)
             - [WET](#a5c1d88a8e35b6c6223a6d64dbfb5358)
         - [(10) Persistence](#2dd40db455d3c6f1f53f8a9c25bbe63e)
-        - [Linux&&Xnix](#4fc56d3dd1977b882ba14a9fd820f8e2)
-    - [文章](#c86567da7d4004149912383575be3b45)
-        - [新添加](#fdf10af493284be94033d1350f1e9b5c)
+        - [Linux Xnix](#4fc56d3dd1977b882ba14a9fd820f8e2)
+    - [New Article](#c86567da7d4004149912383575be3b45)
+        - [Newly Added](#fdf10af493284be94033d1350f1e9b5c)
 
 
 # <a id="94ca60d12e210fdd7fd9e387339b293e"></a>Tools
@@ -317,7 +317,7 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
 - [**520**Star][2y] [CSS] [xapax/security](https://github.com/xapax/security) note about stuff related to IT-security, and specifically penetration testing.
 - [**520**Star][2m] [Shell] [trailofbits/twa](https://github.com/trailofbits/twa) A tiny web auditor with strong opinions.
 - [**517**Star][2m] [JS] [mr-un1k0d3r/thundershell](https://github.com/mr-un1k0d3r/thundershell) a C# RAT that communicates via HTTP requests
-- [**517**Star][5m] [C++] [shuax/greenchrome](https://github.com/shuax/greenchrome) 超好用的Chrome浏览器增强软件
+- [**517**Star][5m] [C++] [shuax/greenchrome](https://github.com/shuax/greenchrome) Super easy-to-use Chrome browser enhancement software
 - [**516**Star][8m] [Visual Basic .NET] [mr-un1k0d3r/maliciousmacrogenerator](https://github.com/mr-un1k0d3r/maliciousmacrogenerator)  generate obfuscated macro that also include a AV / Sandboxes escape mechanism.
 - [**510**Star][12m] [Go] [mthbernardes/gtrs](https://github.com/mthbernardes/gtrs)  uses Google Translator as a proxy to send arbitrary commands to an infected machine
 - [**505**Star][12m] [C] [google/ktsan](https://github.com/google/ktsan) a fast data race detector for the Linux kernel
@@ -326,7 +326,7 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
 - [**501**Star][2m] [C] [m0nad/diamorphine](https://github.com/m0nad/diamorphine) LKM rootkit for Linux Kernels 2.6.x/3.x/4.x (x86 and x86_64)
 - [**500**Star][11m] [C] [yangyangwithgnu/bypass_disablefunc_via_ld_preload](https://github.com/yangyangwithgnu/bypass_disablefunc_via_ld_preload) bypass disable_functions via LD_PRELOA (no need /usr/sbin/sendmail)
 - [**499**Star][2y] [C++] [rbei-etas/busmaster](https://github.com/rbei-etas/busmaster) simulate, analyze and test data bus systems such as CAN.
-- [**496**Star][2y] [JS] [rptec/squid-pac](https://github.com/rptec/squid-pac) 利用国外VPS搭建多协议代理服务，squid PAC代理服务器，25端口翻墙 ....墙已加高，https网站已失效，普通站点仍可代理..建议使用ssr替代
+- [**496**Star][2y] [JS] [rptec/squid-pac](https://github.com/rptec/squid-pac) Use foreign VPS to build a multi-protocol proxy service, squid PAC proxy server, 25 port over the wall. The wall has been raised, the https website has failed, and ordinary sites can still be proxied. It is recommended to use ssr instead
 - [**495**Star][3m] [PHP] [nzedb/nzedb](https://github.com/nzedb/nzedb) automatically scans usenet, similar to the way web spiders scan the internet
 - [**494**Star][2y] [Go] [evilsocket/sg1](https://github.com/evilsocket/sg1) A wanna be swiss army knife for data encryption, exfiltration and covert communication.
 - [**492**Star][3m] [Go] [gen2brain/cam2ip](https://github.com/gen2brain/cam2ip) Turn any webcam into an IP camera
@@ -337,8 +337,8 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
 - [**486**Star][11m] [Shell] [craigz28/firmwalker](https://github.com/craigz28/firmwalker) A simple bash script for searching the extracted or mounted firmware file system.
 - [**485**Star][3y] [PS] [gofetchad/gofetch](https://github.com/gofetchad/gofetch) automatically exercise an attack plan generated by the BloodHound application.
 - [**484**Star][1y] [Java] [continuumsecurity/bdd-security](https://github.com/continuumsecurity/bdd-security) a security testing framework that uses Behaviour Driven Development concepts to create self-verifying security specifications.
-- [**483**Star][2y] [Py] [xyuanmu/xx-mini](https://github.com/xyuanmu/xx-mini) XX-Net 精简版 
-- [**478**Star][1m] [xiangpasama/jdsrc-small-classroom](https://github.com/xiangpasama/jdsrc-small-classroom) 京东SRC小课堂系列文章
+- [**483**Star][2y] [Py] [xyuanmu/xx-mini](https://github.com/xyuanmu/xx-mini) XX-Net Lite
+- [**478**Star][1m] [xiangpasama/jdsrc-small-classroom](https://github.com/xiangpasama/jdsrc-small-classroom) Jingdong SRC Small Classroom Series Articles
 - [**478**Star][2m] [TS] [mitre-attack/attack-navigator](https://github.com/mitre-attack/attack-navigator) Web app that provides basic navigation and annotation of ATT&CK matrices
 - [**476**Star][2y] [C++] [jessek/hashdeep](https://github.com/jessek/hashdeep) md5deep, a set of cross-platform tools to compute hashes, or message digests, for any number of files while optionally recursively digging through the directory structure
 - [**472**Star][2m] [Py] [bit4woo/teemo](https://github.com/bit4woo/teemo) A Domain Name & Email Address Collection Tool
@@ -352,7 +352,7 @@ Check FULL version here: [English Version-Full](https://github.com/alphaSeclab/a
 - [**462**Star][5m] [C] [phoenhex/files](https://github.com/phoenhex/files) Repository for exploits/POCs/presentation of the phoenhex team
 - [**461**Star][3m] [PS] [rvrsh3ll/misc-powershell-scripts](https://github.com/rvrsh3ll/misc-powershell-scripts) Random Tools
 - [**454**Star][19d] [PS] [mr-un1k0d3r/redteampowershellscripts](https://github.com/mr-un1k0d3r/redteampowershellscripts) Various PowerShell scripts that may be useful during red team exercise
-- [**454**Star][2m] [Py] [super-l/superl-url](https://github.com/super-l/superl-url) 根据关键词，对搜索引擎内容检索结果的网址内容进行采集的一款轻量级软程序。 程序主要运用于安全渗透测试项目，以及批量评估各类CMS系统0DAY的影响程度，同时也是批量采集自己获取感兴趣的网站的一个小程序~~ 可自动从搜索引擎采集相关网站的真实地址与标题等信息，可保存为文件，自动去除重复URL。同时，也可以自定义忽略多条域名等。
+- [**454**Star][2m] [Py] [super-l/superl-url](https://github.com/super-l/superl-url) A lightweight software program that collects URL content of search engine content retrieval results based on keywords. The program is mainly used in security penetration testing projects, and batch evaluation of the 0DAY impact of various CMS systems. It is also a small program for batch collection of websites you are interested in~~ It can automatically collect the real addresses and titles of related websites from search engines and other information can be saved as a file to automatically remove duplicate URLs. At the same time, you can also customize to ignore multiple domain names, etc.
 - [**452**Star][8y] [Perl] [aoncyberlabs/padbuster](https://github.com/AonCyberLabs/PadBuster) Automated script for performing Padding Oracle attacks
 - [**450**Star][4m] [C++] [omerya/invisi-shell](https://github.com/omerya/invisi-shell) Hide your Powershell script in plain sight. Bypass all Powershell security features
 - [**448**Star][1y] [JS] [simonepri/upash](https://github.com/simonepri/upash) allow you to have a clean and easy-to-use API to use any password hashing algorithm seamlessly in your application.
@@ -1697,7 +1697,7 @@ for the Linux desktop
 ***
 
 
-## <a id="9101434a896f20263d09c25ace65f398"></a>Book&&Tutorial&&Courses
+## <a id="9101434a896f20263d09c25ace65f398"></a>Book Tutorial Courses
 
 
 - [**10944**Star][2m] [CSS] [hacker0x01/hacker101](https://github.com/hacker0x01/hacker101) Hacker101
@@ -1705,14 +1705,14 @@ for the Linux desktop
 - [**959**Star][5m] [bugcrowd/bugcrowd_university](https://github.com/bugcrowd/bugcrowd_university) Open source education content for the researcher community
 - [**936**Star][7m] [Py] [osirislab/hack-night](https://github.com/osirislab/Hack-Night) a sobering introduction to offensive security
 - [**168**Star][3y] [JS] [norma-inc/atear](https://github.com/norma-inc/atear) Wireless Hacking, WiFi Security, Vulnerability Analyzer, Pentestration
-- [**140**Star][2y] [spoock1024/web-security](https://github.com/spoock1024/web-security) Web安全中比较好的文章
+- [**140**Star][2y] [spoock1024/web-security](https://github.com/spoock1024/web-security) Good Atricles on Web Security
 - [**43**Star][3m] [Jupyter Notebook] [urcuqui/whitehat](https://github.com/urcuqui/whitehat) Information about my experiences in ethical hacking
 
 
 ***
 
 
-## <a id="8088e46fc533286d88b945f1d472bf57"></a>Note&&Tips&&Tricks&&Talk&&Conference
+## <a id="8088e46fc533286d88b945f1d472bf57"></a>Note Tips Tricks Talk Conference
 
 
 ### <a id="f57ccaab4279b60c17a03f90d96b815c"></a>NoCategory
@@ -1743,7 +1743,7 @@ for the Linux desktop
 ***
 
 
-## <a id="df8ec4a66ef5027bbcc591c94f8de1e5"></a>Talk&&Conference 
+## <a id="df8ec4a66ef5027bbcc591c94f8de1e5"></a>Talk Conference 
 
 
 
@@ -1951,13 +1951,13 @@ for the Linux desktop
 - [**1066**Star][2d] [Py] [forseti-security/forseti-security](https://github.com/forseti-security/forseti-security)  A community-driven collection of open source tools to improve the security of your Google Cloud Platform environments
 
 
-# <a id="d55d9dfd081aa2a02e636b97ca1bad0b"></a>IoT&&EmbedDevice&&Router&&Switch&&SmartDevice&&Printer
+# <a id="d55d9dfd081aa2a02e636b97ca1bad0b"></a>IoT Embed Device Router Switch SmartDevice Printer
 
 
 ***
 
 
-## <a id="9a20a70f58ea7946f24224c5d73fac15"></a>工具
+## <a id="9a20a70f58ea7946f24224c5d73fac15"></a> Tools
 
 
 ### <a id="cda63179d132f43441f8844c5df10024"></a>NoCategory
@@ -1991,7 +1991,7 @@ for the Linux desktop
 - [**92**Star][2m] [Py] [akamai-threat-research/mqtt-pwn](https://github.com/akamai-threat-research/mqtt-pwn) MQTT-PWN intends to be a one-stop-shop for IoT Broker penetration-testing and security assessment operations.
 - [**90**Star][12m] [Py] [hackatnow/stretcher](https://github.com/hackatnow/stretcher) Tool designed to help identify open Elasticsearch servers that are exposing sensitive information
 - [**76**Star][2m] [C] [scriptingxss/iotgoat](https://github.com/scriptingxss/iotgoat) IoTGoat is a deliberately insecure firmware based on OpenWrt.
-- [**74**Star][3m] [C++] [noddos/noddos](https://github.com/noddos/noddos) noddos：Noddos 客户端，监视家庭或企业网络中的网络流量，识别 IoT 和其他设备，并将特定设备的ACL应用于已识别设备的流量。 其目标是识别并阻止来自已被黑客控制的设备的流氓流量（例如在 DDOS 攻击的流量）
+- [**74**Star][3m] [C++] [noddos/noddos](https://github.com/noddos/noddos) noddos: A Noddos client that monitors network traffic in a home or business network, identifies IoT and other devices, and applies device-specific ACLs to traffic from identified devices. Its goal is to identify and block rogue traffic from devices that have been taken over by hackers (such as traffic in DDOS attacks)
 - [**72**Star][6m] [Py] [marco-lancini/docker_offensive_elk](https://github.com/marco-lancini/docker_offensive_elk) Elasticsearch for Offensive Security
 - [**62**Star][5y] [Py] [xipiter/idiotic](https://github.com/xipiter/idiotic) Simple ways to 0wn simple IOT devices
 - [**60**Star][1y] [Py] [arthastang/iot-home-guard](https://github.com/arthastang/iot-home-guard) A tool for malicious behavior detection in IoT devices
@@ -2018,7 +2018,7 @@ for the Linux desktop
 - [**2133**Star][2y] [Py] [rub-nds/pret](https://github.com/rub-nds/pret) Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.
 
 
-### <a id="c9fd442ecac4e22d142731165b06b3fe"></a>Router&&Switch
+### <a id="c9fd442ecac4e22d142731165b06b3fe"></a>Router Switch
 
 
 - [**237**Star][5y] [C] [jduck/asus-cmd](https://github.com/jduck/asus-cmd) ASUS Router infosvr UDP Broadcast root Command Execution
@@ -2027,7 +2027,7 @@ for the Linux desktop
 - [**28**Star][5y] [C] [rfdslabs/mimosa-framework](https://github.com/rfdslabs/mimosa-framework) Mimosa Framework to abuse EPC functionality on CISCO Routers.
 
 
-### <a id="3d345feb9fee1c101aea3838da8cbaca"></a>EmbedDevice
+### <a id="3d345feb9fee1c101aea3838da8cbaca"></a>Embed Device
 
 
 - [**7547**Star][8d] [Py] [threat9/routersploit](https://github.com/threat9/routersploit) Exploitation Framework for Embedded Devices
@@ -2048,13 +2048,13 @@ for the Linux desktop
 
 
 
-# <a id="1233584261c0cd5224b6e90a98cc9a94"></a>Pentest&&Offensive&&PentestFramework&&PostExp
+# <a id="1233584261c0cd5224b6e90a98cc9a94"></a>Pentest Offensive PentestFramework PostExp
 
 
 ***
 
 
-## <a id="5dd93fbc2f2ebc8d98672b2d95782af3"></a>工具
+## <a id="5dd93fbc2f2ebc8d98672b2d95782af3"></a> Tools
 
 
 ### <a id="2e40f2f1df5d7f93a7de47bf49c24a0e"></a>NoCategory
@@ -2389,7 +2389,7 @@ for the Linux desktop
 - [**540**Star][7m] [Py] [0xdea/tactical-exploitation](https://github.com/0xdea/tactical-exploitation) Modern tactical exploitation toolkit.
 
 
-### <a id="2051fd9e171f2698d8e7486e3dd35d87"></a>AllInOne&&Framework
+### <a id="2051fd9e171f2698d8e7486e3dd35d87"></a>AllInOne Framework
 
 
 - [**5062**Star][5m] [PS] [empireproject/empire](https://github.com/EmpireProject/Empire) 后渗透框架. Windows客户端用PowerShell, Linux/OSX用Python. 之前PowerShell Empire和Python EmPyre的组合
@@ -3075,7 +3075,7 @@ for the Linux desktop
 
 
 
-### <a id="b1161d6c4cb520d0cd574347cd18342e"></a>AntiAV&&BypassAV
+### <a id="b1161d6c4cb520d0cd574347cd18342e"></a>AntiAV BypassAV
 
 
 - [**1032**Star][5m] [C] [govolution/avet](https://github.com/govolution/avet) AntiVirus Evasion Tool
@@ -3895,13 +3895,13 @@ for the Linux desktop
 
 
 
-# <a id="8f92ead9997a4b68d06a9acf9b01ef63"></a>Scanner&&SecurityScan&&AppScan
+# <a id="8f92ead9997a4b68d06a9acf9b01ef63"></a>Scanner SecurityScan AppScan
 
 
 ***
 
 
-## <a id="132036452bfacf61471e3ea0b7bf7a55"></a>工具
+## <a id="132036452bfacf61471e3ea0b7bf7a55"></a> Tools
 
 
 ### <a id="de63a029bda6a7e429af272f291bb769"></a>NoCategory
@@ -4205,7 +4205,7 @@ for the Linux desktop
 - [**21**Star][7m] [Py] [duchengyao/hkdvr_login](https://github.com/duchengyao/hkdvr_login) 批量扫描海康威视视频监控并尝试登录的脚本
 
 
-### <a id="58d8b993ffc34f7ded7f4a0077129eb2"></a>Secret&&Privacy
+### <a id="58d8b993ffc34f7ded7f4a0077129eb2"></a>Secret Privacy
 
 
 - [**6861**Star][30d] [Shell] [awslabs/git-secrets](https://github.com/awslabs/git-secrets) Prevents you from committing secrets and credentials into git repositories
@@ -4288,13 +4288,13 @@ for the Linux desktop
 
 
 
-# <a id="a76463feb91d09b3d024fae798b92be6"></a>Recon&&InfoGather&&SubDomainDiscovery&&OSINT
+# <a id="a76463feb91d09b3d024fae798b92be6"></a>Recon InfoGather SubDomainDiscovery OSINT
 
 
 ***
 
 
-## <a id="170048b7d8668c50681c0ab1e92c679a"></a>工具
+## <a id="170048b7d8668c50681c0ab1e92c679a"></a> Tools
 
 
 ### <a id="05ab1b75266fddafc7195f5b395e4d99"></a>NoCategory
@@ -4609,7 +4609,7 @@ for the Linux desktop
 - [**21**Star][2y] [sharsi1/sublazerwlst](https://github.com/sharsi1/sublazerwlst) Bundle of wordlists for brute-forcing subdomains (World + RUSSIA based).
 
 
-### <a id="375a8baa06f24de1b67398c1ac74ed24"></a>Recon&&InfoGather
+### <a id="375a8baa06f24de1b67398c1ac74ed24"></a>Recon InfoGather
 
 
 - [**3603**Star][11d] [Shell] [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) Testing TLS/SSL encryption anywhere on any port
@@ -5284,13 +5284,13 @@ for CVE details based on the nmap report.
 
 
 
-# <a id="546f4fe70faa2236c0fbc2d486a83391"></a>SET&&Phishing&&SpearPhishing
+# <a id="546f4fe70faa2236c0fbc2d486a83391"></a>SET Phishing SpearPhishing
 
 
 ***
 
 
-## <a id="3e622bff3199cf22fe89db026b765cd4"></a>工具
+## <a id="3e622bff3199cf22fe89db026b765cd4"></a> Tools
 
 
 ### <a id="ce734598055ad3885d45d0b35d2bf0d7"></a>NoCategory
@@ -5501,13 +5501,13 @@ for CVE details based on the nmap report.
 
 
 
-# <a id="dc89c90b80529c1f62f413288bca89c4"></a>EvnSetup&&Env
+# <a id="dc89c90b80529c1f62f413288bca89c4"></a>EvnSetup Env
 
 
 ***
 
 
-## <a id="9763d00cbe773aa10502dbe258f9c385"></a>工具
+## <a id="9763d00cbe773aa10502dbe258f9c385"></a> Tools
 
 
 ### <a id="f5a7a43f964b2c50825f3e2fee5078c8"></a>NoCategory
@@ -5558,13 +5558,13 @@ for CVE details based on the nmap report.
 
 
 
-# <a id="c49aef477cf3397f97f8b72185c3d100"></a>Password&&Credential
+# <a id="c49aef477cf3397f97f8b72185c3d100"></a>Password Credential
 
 
 ***
 
 
-## <a id="862af330f45f21fbb0d495837fc7e879"></a>工具
+## <a id="862af330f45f21fbb0d495837fc7e879"></a> Tools
 
 
 ### <a id="20bf2e2fefd6de7aadbf0774f4921824"></a>NoCategory
@@ -5781,7 +5781,7 @@ for CVE details based on the nmap report.
 ***
 
 
-## <a id="86d5daccb4ed597e85a0ec9c87f3c66f"></a>TLS&&SSL&&HTTPS
+## <a id="86d5daccb4ed597e85a0ec9c87f3c66f"></a>TLS SSL HTTPS
 
 
 - [**22020**Star][23d] [Go] [filosottile/mkcert](https://github.com/filosottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -5826,7 +5826,7 @@ for CVE details based on the nmap report.
 ***
 
 
-## <a id="0abd611fc3e9a4d9744865ca6e47a6b2"></a>工具
+## <a id="0abd611fc3e9a4d9744865ca6e47a6b2"></a> Tools
 
 
 ### <a id="7a277f8b0e75533e0b50d93c902fb351"></a>NoCategory
@@ -6107,7 +6107,7 @@ for CVE details based on the nmap report.
 - [**None**Star][webarx/php-firewall](https://bitbucket.org/webarx/php-firewall) 
 
 
-### <a id="ff3e0b52a1477704b5f6a94ccf784b9a"></a>IDS&&IPS
+### <a id="ff3e0b52a1477704b5f6a94ccf784b9a"></a>IDS IPS
 
 
 - [**2938**Star][4d] [Zeek] [zeek/zeek](https://github.com/zeek/zeek) Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
@@ -6180,7 +6180,7 @@ for CVE details based on the nmap report.
 ***
 
 
-## <a id="015984b1dae0c9aa03b3aa74ea449f3f"></a>工具
+## <a id="015984b1dae0c9aa03b3aa74ea449f3f"></a> Tools
 
 
 - [**934**Star][1y] [C++] [miek/inspectrum](https://github.com/miek/inspectrum) analysing captured signals, primarily from software-defined radio receivers.
@@ -6199,13 +6199,13 @@ for CVE details based on the nmap report.
 
 
 
-# <a id="507f1a48f4709abb1c6b0d2689fd15e6"></a>LOLBin&&LOLScript
+# <a id="507f1a48f4709abb1c6b0d2689fd15e6"></a>LOLBin LOLScript
 
 
 ***
 
 
-## <a id="ec32edc7b3e441f29c70f6e9bca0174a"></a>工具
+## <a id="ec32edc7b3e441f29c70f6e9bca0174a"></a> Tools
 
 
 - [**1433**Star][1m] [XSLT] [lolbas-project/lolbas](https://github.com/lolbas-project/lolbas) Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
@@ -6226,7 +6226,7 @@ for CVE details based on the nmap report.
 ***
 
 
-## <a id="13df0f4d5c7a1386b329fd9e43d8fc15"></a>工具
+## <a id="13df0f4d5c7a1386b329fd9e43d8fc15"></a> Tools
 
 
 - [**1461**Star][2y] [C++] [acaudwell/logstalgia](https://github.com/acaudwell/logstalgia)  a visualization tool that replays or streams web server access logs as a retro arcade game simulation.
@@ -6246,7 +6246,7 @@ for CVE details based on the nmap report.
 ***
 
 
-## <a id="b911aad7512e253660092942e06d00ad"></a>工具
+## <a id="b911aad7512e253660092942e06d00ad"></a> Tools
 
 
 ### <a id="0b27f97199330c4945572a1f9c229000"></a>未分类
@@ -6276,7 +6276,7 @@ for CVE details based on the nmap report.
 ***
 
 
-## <a id="41d260119ad54db2739a9ae393bd87a5"></a>工具
+## <a id="41d260119ad54db2739a9ae393bd87a5"></a> Tools
 
 
 - [**2151**Star][5d] [Java] [google/wycheproof](https://github.com/google/wycheproof) Project Wycheproof tests crypto libraries against known attacks.
@@ -6302,13 +6302,13 @@ for CVE details based on the nmap report.
 
 
 
-# <a id="8cb1c42a29fa3e8825a0f8fca780c481"></a>Malware&&APT
+# <a id="8cb1c42a29fa3e8825a0f8fca780c481"></a>Malware APT
 
 
 ***
 
 
-## <a id="e2fd0947924229d7de24b9902e1f54a0"></a>工具
+## <a id="e2fd0947924229d7de24b9902e1f54a0"></a> Tools
 
 
 - [**2058**Star][2m] [C++] [lordnoteworthy/al-khaser](https://github.com/lordnoteworthy/al-khaser) Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
@@ -6334,13 +6334,13 @@ for CVE details based on the nmap report.
 
 
 
-# <a id="7d5d2d22121ed8456f0c79098f5012bb"></a>REST_API&&RESTFUL 
+# <a id="7d5d2d22121ed8456f0c79098f5012bb"></a>REST_API RESTFUL 
 
 
 ***
 
 
-## <a id="3b127f2a89bc8d18b4ecb0d9c61f1d58"></a>工具
+## <a id="3b127f2a89bc8d18b4ecb0d9c61f1d58"></a> Tools
 
 
 - [**1233**Star][9m] [Py] [flipkart-incubator/astra](https://github.com/flipkart-incubator/astra) Automated Security Testing For REST API's
@@ -6362,7 +6362,7 @@ for CVE details based on the nmap report.
 ***
 
 
-## <a id="c72811e491c68f75ac2e7eb7afd3b01f"></a>工具
+## <a id="c72811e491c68f75ac2e7eb7afd3b01f"></a> Tools
 
 
 - [**274**Star][19d] [Py] [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi) Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
@@ -6385,7 +6385,7 @@ for CVE details based on the nmap report.
 ***
 
 
-## <a id="47a03071becd6df66b469df7c2c6f9b5"></a>工具
+## <a id="47a03071becd6df66b469df7c2c6f9b5"></a> Tools
 
 
 - [**4672**Star][5d] [JS] [beefproject/beef](https://github.com/beefproject/beef) The Browser Exploitation Framework Project
@@ -6425,7 +6425,7 @@ for CVE details based on the nmap report.
 ***
 
 
-## <a id="a88c0c355b342b835fb42abee283bd71"></a>工具
+## <a id="a88c0c355b342b835fb42abee283bd71"></a> Tools
 
 
 ### <a id="6ab6835b55cf5c8462c4229a4a0ee94c"></a>未分类的
@@ -6475,13 +6475,13 @@ for CVE details based on the nmap report.
 
 
 
-# <a id="de81f9dd79c219c876c1313cd97852ce"></a>Crack&&BruteForce
+# <a id="de81f9dd79c219c876c1313cd97852ce"></a>Crack BruteForce
 
 
 ***
 
 
-## <a id="73c3c9225523cbb05333246f23342846"></a>工具
+## <a id="73c3c9225523cbb05333246f23342846"></a> Tools
 
 
 ### <a id="53084c21ff85ffad3dd9ce445684978b"></a>未分类的
@@ -6761,13 +6761,13 @@ for CVE details based on the nmap report.
 
 
 
-# <a id="96171a80e158b8752595329dd42e8bcf"></a>Breach&&Leak
+# <a id="96171a80e158b8752595329dd42e8bcf"></a>Breach Leak
 
 
 ***
 
 
-## <a id="602bb9759b0b2ba5555b05b7218a2d6f"></a>工具
+## <a id="602bb9759b0b2ba5555b05b7218a2d6f"></a> Tools
 
 
 ### <a id="dc507c5be7c09e1e88af7a1ad91e2703"></a>未分类
@@ -6811,7 +6811,7 @@ for CVE details based on the nmap report.
 ***
 
 
-## <a id="0f931c85ab54698d0bcfaf9a3e6dac73"></a>工具
+## <a id="0f931c85ab54698d0bcfaf9a3e6dac73"></a> Tools
 
 
 ### <a id="442f9390fd56008def077a21ab65d4aa"></a>未分类
@@ -6836,7 +6836,7 @@ for CVE details based on the nmap report.
 
 
 
-# <a id="39931e776c23e80229368dfc6fd54770"></a>Wireless&&WiFi&&AP&&802.11
+# <a id="39931e776c23e80229368dfc6fd54770"></a>Wireless WiFi AP 802.11
 
 
 ***
@@ -7041,7 +7041,7 @@ for CVE details based on the nmap report.
 ***
 
 
-## <a id="8d233e2d068cce2b36fd0cf44d10f5d8"></a>WPS&&WPA&&WPA2
+## <a id="8d233e2d068cce2b36fd0cf44d10f5d8"></a>WPS WPA WPA2
 
 
 - [**8434**Star][2y] [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
@@ -7064,13 +7064,13 @@ for CVE details based on the nmap report.
 - [**22**Star][7y] [brycethomas/liber80211](https://github.com/brycethomas/liber80211) 802.11 monitor mode for Android without root.
 
 
-# <a id="80301821d0f5d8ec2dd3754ebb1b4b10"></a>Payload&&RAT
+# <a id="80301821d0f5d8ec2dd3754ebb1b4b10"></a>Payload RAT
 
 
 ***
 
 
-## <a id="783f861b9f822127dba99acb55687cbb"></a>工具
+## <a id="783f861b9f822127dba99acb55687cbb"></a> Tools
 
 
 ### <a id="6602e118e0245c83b13ff0db872c3723"></a>NoCategory
@@ -7251,7 +7251,7 @@ for CVE details based on the nmap report.
 - [**329**Star][3y] [Pascal] [malwares/remote-access-trojan](https://github.com/malwares/remote-access-trojan) Windows Remote-Access-Trojan
 - [**323**Star][3d] [C#] [nyan-x-cat/asyncrat-c-sharp](https://github.com/nyan-x-cat/asyncrat-c-sharp) Open-Source Remote Administration Tool For Windows C# (RAT)
 - [**317**Star][6m] [Py] [mvrozanti/rat-via-telegram](https://github.com/mvrozanti/rat-via-telegram) Windows Remote Administration Tool via Telegram
-- [**293**Star][4m] [C++] [yuanyuanxiang/simpleremoter](https://github.com/yuanyuanxiang/simpleremoter) 基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能，优化全部代码及整理排版，修复内存泄漏缺陷，程序运行稳定。此项目初版见：
+- [**293**Star][4m] [C++] [yuanyuanxiang/simpleremoter](https://github.com/yuanyuanxiang/simpleremoter)Remote controller based on gh0st: realized terminal management, process management, window management, remote desktop, file management, voice management, video management, service management, registry management and other functions, optimized all codes and layout, and repaired memory leak defects , the program runs stably. See the original version of this project:
 - [**284**Star][2y] [Py] [0xislamtaha/python-rootkit](https://github.com/0xIslamTaha/Python-Rootkit) Python Remote Administration Tool (RAT) to gain meterpreter session
 - [**264**Star][7y] [C++] [sin5678/gh0st](https://github.com/sin5678/gh0st) a open source remote administrator tool
 - [**191**Star][27d] [PHP] [0blio/caesar](https://github.com/0blio/Caesar) An HTTP based RAT (Remote Administration Tool) that allows you to remotely control devices from your browser
@@ -7277,7 +7277,7 @@ for CVE details based on the nmap report.
 - [**59**Star][3m] [Makefile] [trojan-gfw/openwrt-trojan](https://github.com/trojan-gfw/openwrt-trojan) trojan and its dependencies for OpenWrt
 - [**55**Star][3y] [Py] [m4sc3r4n0/spyrat](https://github.com/m4sc3r4n0/spyrat) Python Remote Access Trojan
 - [**48**Star][5y] [C] [nyx0/kins](https://github.com/nyx0/kins) KINS Banking Trojan
-- [**47**Star][3m] [Py] [jackeriss/keyboard_recording_trojan](https://github.com/jackeriss/keyboard_recording_trojan) 一个可以记录键盘输入并发送到指定邮箱的简单木马。
+- [**47**Star][3m] [Py] [jackeriss/keyboard_recording_trojan](https://github.com/jackeriss/keyboard_recording_trojan) A simple Trojan that can record keystrokes and send them to specified mailboxes.
 - [**41**Star][8m] [C++] [trojan-gfw/trojan-qt](https://github.com/trojan-gfw/trojan-qt) GUI server and client of Trojan in Qt C++
 - [**39**Star][3y] [Visual Basic .NET] [mwsrc/betterrat](https://github.com/mwsrc/BetterRAT) Better Remote Access Trojan
 - [**33**Star][5y] [C++] [nyx0/alina](https://github.com/nyx0/alina) Alina Spark - Point of Sales Trojan
@@ -7390,7 +7390,7 @@ for CVE details based on the nmap report.
 - [**20**Star][3y] [C++] [dinamsky/malware-botnets](https://github.com/dinamsky/malware-botnets) 
 
 
-### <a id="b6efee85bca01cde45faa45a92ece37f"></a>Backdooring&&Backdoor
+### <a id="b6efee85bca01cde45faa45a92ece37f"></a>Backdooring Backdoor
 
 
 - [**2389**Star][2y] [Py] [secretsquirrel/the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory) Patch PE, ELF, Mach-O binaries with shellcode (NOT Supported)
@@ -7477,7 +7477,7 @@ for CVE details based on the nmap report.
 - [**1147**Star][8m] [hikariobfuscator/hikari](https://github.com/HikariObfuscator/Hikari) LLVM Obfuscator
 - [**1021**Star][1m] [Swift] [rockbruno/swiftshield](https://github.com/rockbruno/swiftshield) wift/OBJ-C Obfuscator
 - [**676**Star][1m] [C#] [obfuscar/obfuscar](https://github.com/obfuscar/obfuscar) Open source obfuscation tool for .NET assemblies
-- [**675**Star][7m] [C++] [gossip-sjtu/armariris](https://github.com/gossip-sjtu/armariris) 孤挺花（Armariris） -- 由上海交通大学密码与计算机安全实验室维护的LLVM混淆框架
+- [**675**Star][7m] [C++] [gossip-sjtu/armariris](https://github.com/gossip-sjtu/armariris)Amaryllis (Armariris) -- LLVM obfuscation framework maintained by Shanghai Jiaotong University Cryptography and Computer Security Lab
 - [**653**Star][6m] [Go] [yawning/obfs4](https://github.com/yawning/obfs4) The obfourscator (Courtesy mirror)
 - [**502**Star][2y] [C++] [andrivet/advobfuscator](https://github.com/andrivet/advobfuscator) Obfuscation library based on C++11/14 and metaprogramming
 - [**496**Star][2y] [PS] [danielbohannon/invoke-cradlecrafter](https://github.com/danielbohannon/invoke-cradlecrafter) PowerShell Remote Download Cradle Generator & Obfuscator
@@ -7507,7 +7507,7 @@ for CVE details based on the nmap report.
 - [**158**Star][5y] [C] [fuzion24/androidobfuscation-ndk](https://github.com/fuzion24/androidobfuscation-ndk) Example of obfuscating an Android NDK project using O-LLVM
 - [**158**Star][1m] [Java] [itzsomebody/radon](https://github.com/itzsomebody/radon) A crappy Java bytecode obfuscator (meaning: not for production use)
 - [**157**Star][4m] [C++] [fritzone/obfy](https://github.com/fritzone/obfy) A tiny C++ obfuscation framework
-- [**157**Star][3y] [ysrc/androidobfusedictionary](https://github.com/ysrc/androidobfusedictionary) Android ProGuard变态混淆字典
+- [**157**Star][3y] [ysrc/androidobfusedictionary](https://github.com/ysrc/androidobfusedictionary) Android ProGuard abnormal obfuscation dictionary
 - [**150**Star][12m] [Go] [znly/strobfus](https://github.com/znly/strobfus) String obfuscation
 - [**146**Star][3m] [Py] [claudiugeorgiu/obfuscapk](https://github.com/claudiugeorgiu/obfuscapk) A black-box obfuscation tool for Android apps
 - [**146**Star][4y] [Py] [kgretzky/python-x86-obfuscator](https://github.com/kgretzky/python-x86-obfuscator) This is a **WIP** tool that performs shellcode obfuscation in x86 instruction set.
@@ -7565,13 +7565,13 @@ for CVE details based on the nmap report.
 - [**29**Star][6m] [Py] [alberties/ghostfuscator](https://github.com/alberties/ghostfuscator) The Python Password-Protected Obfuscator
 - [**29**Star][2y] [JS] [javascript-obfuscator/obfuscator-loader](https://github.com/javascript-obfuscator/obfuscator-loader) A webpack loader for obfuscating single modules using javascript-obfuscator
 - [**29**Star][1y] [Java] [guardianproject/pluto](https://github.com/guardianproject/pluto) Pluggable Library (for) Using Traffic Obfuscation: DEPRECATED - SEE LINK FOR NEW PROJECT
-- [**28**Star][1y] [C++] [allocandinit/ollvm5.0.1](https://github.com/allocandinit/ollvm5.0.1) obfuscator 基于 llvm 5.0.1 版本
+- [**28**Star][1y] [C++] [allocandinit/ollvm5.0.1](https://github.com/allocandinit/ollvm5.0.1) obfuscator is based on llvm 5.0.1 version
 - [**27**Star][1y] [PS] [danmcinerney/invoke-cats](https://github.com/danmcinerney/invoke-cats) Obfuscated Invoke-Mimikatz
 - [**27**Star][1y] [Java] [rabrg/refactored-client](https://github.com/rabrg/refactored-client) Refactoring the obfuscated v317 of the RuneScape (RuneTek 3) client.
 - [**27**Star][18d] [Go] [getlantern/lampshade](https://github.com/getlantern/lampshade) Obfuscated encrypted network protocol for Lantern
 - [**26**Star][3y] [JS] [alexhorn/defendjs](https://github.com/alexhorn/defendjs) A free and open source JavaScript and Node.js obfuscator.
 - [**25**Star][1y] [Py] [aurore54f/jast](https://github.com/aurore54f/jast) Syntactic detection of malicious (obfuscated) JavaScript files
-- [**23**Star][3y] [C#] [tum-i22/vot4cs](https://github.com/tum-i22/vot4cs) vot4cs：C#虚拟化混淆工具
+- [**23**Star][3y] [C#] [tum-i22/vot4cs](https://github.com/tum-i22/vot4cs) vot4cs: C# virtualization obfuscation tool
 - [**23**Star][8m] [C++] [hikariobfuscator/core](https://github.com/hikariobfuscator/core) Shared Obfuscation Core
 - [**22**Star][11m] [coldev/coldevprolayer](https://github.com/coldev/coldevprolayer) Protect your PHP code with obfuscation and encryption
 
@@ -7611,7 +7611,7 @@ for CVE details based on the nmap report.
 - [**34**Star][5y] [C++] [adamkramer/handle_monitor](https://github.com/adamkramer/handle_monitor) Identifying and Disrupting Crypto-Ransomware (and Destructive Malware) using handle heurustics
 - [**32**Star][2m] [Py] [codingo/ransomware-json-dataset](https://github.com/codingo/ransomware-json-dataset) Compiles a json dataset using public sources that contains properties to aid in the detection and mitigation of over 1000 variants of ransomware.
 - [**30**Star][3y] [JS] [rpgeeganage/file-less-ransomware-demo](https://github.com/rpgeeganage/file-less-ransomware-demo) Demonstrate about file-less malware approach using JavaScript
-- [**29**Star][2y] [C++] [mogongtech/ransomdetection](https://github.com/mogongtech/ransomdetection) 基于行为的Ransomware检测原型
+- [**29**Star][2y] [C++] [mogongtech/ransomdetection](https://github.com/mogongtech/ransomdetection) Behavior-Based Ransomware Detection Prototype
 - [**28**Star][1y] [Py] [knownsec/decrypt-ransomware](https://github.com/knownsec/decrypt-ransomware) 
 - [**27**Star][5y] [Go] [lucdew/goransomware](https://github.com/lucdew/goransomware) Ransomware written in Go language
 - [**26**Star][2y] [PS] [gimini/tartarus](https://github.com/gimini/tartarus) Fileless Ransomware Example
@@ -7706,7 +7706,7 @@ for CVE details based on the nmap report.
 ***
 
 
-## <a id="3ed50213c2818f1455eff4e30372c542"></a>工具
+## <a id="3ed50213c2818f1455eff4e30372c542"></a> Tools
 
 
 ### <a id="12abc279c69d1fcf10692b9cb89bcdf7"></a>NoCategory
@@ -7731,7 +7731,7 @@ for CVE details based on the nmap report.
 - [**765**Star][5m] [Py] [lgandx/pcredz](https://github.com/lgandx/pcredz) This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
 - [**743**Star][5m] [PS] [hausec/adape-script](https://github.com/hausec/adape-script) Active Directory Assessment and Privilege Escalation Script
 - [**697**Star][2m] [C#] [cobbr/sharpsploit](https://github.com/cobbr/sharpsploit) SharpSploit is a .NET post-exploitation library written in C#
-- [**496**Star][4y] [JS] [mandatoryprogrammer/sonar.js](https://github.com/mandatoryprogrammer/sonar.js) 通过 WebRTC IP 枚举，结合 WebSockets 和外部资源指纹，来识别内网主机的漏洞并发动攻击的框架
+- [**496**Star][4y] [JS] [mandatoryprogrammer/sonar.js](https://github.com/mandatoryprogrammer/sonar.js) A framework for identifying vulnerabilities of intranet hosts and launching attacks through WebRTC IP enumeration, combined with WebSockets and external resource fingerprints
 - [**450**Star][2y] [PS] [spiderlabs/portia](https://github.com/spiderlabs/portia) Portia aims to automate a number of techniques commonly performed on internal network penetration tests after a low privileged account has been compromised.
 - [**422**Star][16d] [Shell] [thesecondsun/bashark](https://github.com/thesecondsun/bashark) Bash post exploitation toolkit
 - [**378**Star][3y] [C++] [m00nrise/processhider](https://github.com/m00nrise/processhider) Post-exploitation tool for hiding processes from monitoring applications
@@ -7745,7 +7745,7 @@ for CVE details based on the nmap report.
 - [**204**Star][2m] [Py] [elevenpaths/ibombshell](https://github.com/elevenpaths/ibombshell) Tool to deploy a post-exploitation prompt at any time
 - [**174**Star][4y] [C] [hvqzao/foolav](https://github.com/hvqzao/foolav) Pentest tool for antivirus evasion and running arbitrary payload on target Wintel host
 - [**167**Star][1y] [Py] [spiderlabs/scavenger](https://github.com/spiderlabs/scavenger) is a multi-threaded post-exploitation scanning tool for scavenging systems, finding most frequently used files and folders as well as "interesting" files containing sensitive information.
-- [**149**Star][2y] [PS] [milo2012/portia](https://github.com/milo2012/portia) portia：自动化内网渗透测试工具
+- [**149**Star][2y] [PS] [milo2012/portia](https://github.com/milo2012/portia) portia: automated intranet penetration testing tool
 - [**135**Star][10m] [PS] [securemode/invoke-apex](https://github.com/securemode/invoke-apex) A PowerShell-based toolkit and framework consisting of a collection of techniques and tradecraft for use in red team, post-exploitation, adversary simulation, or other offensive security tasks.
 - [**101**Star][2y] [C] [akayn/postexploits](https://github.com/akayn/postexploits) post exploitation: Keyloggers, UacByPass etc..
 - [**97**Star][1y] [PS] [hackplayers/empire-mod-hackplayers](https://github.com/hackplayers/empire-mod-hackplayers) PowerShell Empire mod to post-exploit the World!
@@ -7978,7 +7978,7 @@ for CVE details based on the nmap report.
 - [**33**Star][2y] [PS] [3gstudent/office-persistence](https://github.com/3gstudent/office-persistence) Use powershell to test Office-based persistence methods
 
 
-### <a id="4fc56d3dd1977b882ba14a9fd820f8e2"></a>Linux&&Xnix
+### <a id="4fc56d3dd1977b882ba14a9fd820f8e2"></a>Linux Xnix
 
 
 
